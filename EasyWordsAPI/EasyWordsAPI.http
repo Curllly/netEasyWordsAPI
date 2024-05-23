@@ -1,0 +1,6 @@
+@EasyWordsAPI_HostAddress = http://localhost:5212
+
+GET {{EasyWordsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
