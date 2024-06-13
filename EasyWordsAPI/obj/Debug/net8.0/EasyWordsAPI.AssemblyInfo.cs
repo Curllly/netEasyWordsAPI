@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyWordsAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc36d23fc1b53799866a5db0eea888bc9cd5166a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyWordsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyWordsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
